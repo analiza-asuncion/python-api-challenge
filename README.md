@@ -29,7 +29,7 @@ Southern Hemisphere - Wind Speed (mph) vs. Latitude
 - csv file with all of the retrieved weather data
 - .pngs for each scatter plot 
 
-VACATIONPY
+VACATIONPY  
 
 -Wrote Python script for  a heat map that displays the humidity for every city from the WeatherPy homework.
 
