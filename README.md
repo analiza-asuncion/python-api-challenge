@@ -43,4 +43,4 @@ Zero cloudiness.
 
 Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
     
-
+  
