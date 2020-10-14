@@ -30,7 +30,7 @@ Southern Hemisphere - Wind Speed (mph) vs. Latitude
 - .pngs for each scatter plot 
 
 VACATIONPY  
-
+  
 -Wrote Python script for  a heat map that displays the humidity for every city from the WeatherPy homework.
 
 - Created another heatmap using Google Places API which narrows down the Heatmap to find the ideal weather condition using the following conditions:
