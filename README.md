@@ -2,7 +2,7 @@
 python-api-challenge homework
 
 Submitted by Analiza Asuncion
-
+ 
 WEATHERPY
 
 - Created a Python script recording dynamic weather data of 500 plus cities acrosss the world f varying distance from the equator using Citipy and OpenWeatherMap API.
