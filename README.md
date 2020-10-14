@@ -14,7 +14,7 @@ Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
 
 - Task included creating 8 linear regression plots:
-
+ 
 Northern Hemisphere - Temperature (F) vs. Latitude
 Southern Hemisphere - Temperature (F) vs. Latitude
 Northern Hemisphere - Humidity (%) vs. Latitude
