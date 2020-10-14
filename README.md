@@ -1,6 +1,6 @@
 # python-api-challenge
 python-api-challenge homework
-
+ 
 Submitted by Analiza Asuncion
     
 WEATHERPY
